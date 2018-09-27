@@ -6,9 +6,9 @@ Frontend-nanodegree-Feed-Reader-Testing
 
 
 
-#How to run the project
+#H ow to run the project
     Clone the project on your local machine
     Open the index.html file on your browser
-    when the contents is loaded, at the bottom 
+    when the contents is loaded, at the bottom
     of the page it will show the result of the
     testing.
